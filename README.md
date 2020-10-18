@@ -7,7 +7,7 @@ Em python, produzimos um código que fornece um mecanismo de otimização da exp
 
 Já em CSS e HTML, esquematizamos a interface do usuário desse aplicativo, que além do preço dinâmico inclui as seguintes funcionalidades:
 
-Estimativa de tempo de entrega;
+- Estimativa de tempo de entrega;
 Previsão de trânsito e rota;
 Sinalizador de recebimento da encomenda;
 Chat em tempo real entre entregadores e compradores/vendedores;
