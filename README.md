@@ -1,4 +1,5 @@
 # OLX_Hackathon
+## Grupo Union Squad – Letícia Fiorito, Daniel Rocha, Everton Arruda, Allan Kildare
 Código do OLX Hack Tudo (2020). Desafio: "Criar soluções colaborativas e sustentáveis para delivery dos produtos comprados na OLX Pay".
 
 Por meio de um mecanismo de economia do compartilhamento, criamos uma área dentro do app da OLX para que usuário possam ser entregadores independentes. Assim, é criado um mecanismo de remuneração para oferecer a facilidade do comprador não precisar se deslocar para coletar o item comprado. 
