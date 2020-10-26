@@ -1,6 +1,6 @@
 # Projeto OLX Flash
 ## Hackathon OLX Hackatudo (2020)
-## Equipe Union Squad – Letícia Fiorito, Daniel Rocha, Everton Arruda, Allan Kildare
+## Equipe Union Squad – Daniel N. Rocha, Letícia Fiorito e Everton Arruda
 OLX Hack Tudo (2020). Desafio: "Criar soluções colaborativas e sustentáveis para delivery dos produtos comprados na OLX Pay".
 
 Por meio de um mecanismo de economia do compartilhamento, criamos uma área dentro do app da OLX para que usuário possam ser entregadores independentes. Assim, é criado um mecanismo de remuneração para oferecer a facilidade do comprador não precisar se deslocar para coletar o item comprado. 
