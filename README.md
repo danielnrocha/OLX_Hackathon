@@ -7,8 +7,9 @@ Desafio: "Criar soluções colaborativas e sustentáveis para delivery dos produ
 
 1. Vídeo Teaser: https://youtu.be/IVml9pCjcnI
 2. Vídeo Pitching: https://youtu.be/z5nYvHF07nk#t=01h30m54s
-3. Vídeo da Premiação: https://youtu.be/OnOQNb1HaPE#t=16m49
-4. Destaque durante o programa: https://youtu.be/OnOQNb1HaPE#t=26m12s
+3. Apresentação de Slides: https://bit.ly/36uGX9v
+4. Vídeo da Premiação: https://youtu.be/OnOQNb1HaPE#t=16m49
+5. Destaque durante o programa: https://youtu.be/OnOQNb1HaPE#t=26m12s
 
 <p align="justify">
 Por meio de um mecanismo de economia do compartilhamento, criamos uma área dentro do app da OLX para que usuário possam ser entregadores independentes. Assim, é criado um mecanismo de remuneração para oferecer a facilidade do comprador não precisar se deslocar para coletar o item comprado. 
