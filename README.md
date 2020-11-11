@@ -21,7 +21,9 @@ Em Python, produzimos um código que fornece um mecanismo de otimização da exp
 1) Criação de um modelo estatístico de preço dinâmico do frete (com base em dados abertos da Olist);
 2) Cálculo do tempo de entrega com base em estimativas da API do Bing Maps (produzida pela Microsoft). 
 
+<p align="justify">
 A solução apresentada também otimiza a logística reversa, pois o entregador autônomo também pode transportar produtos que precisem ser trocados ou retificados.
+</p>
 
 <p align="justify">
 O código deste arquivo fornece um mecanismo de otimização da experiência do usuário e do empregador por meio da criação de um modelo estatístico de preço dinâmico do frete e do tempo de entrega por meio de uma conexão com a API do Bing Maps (produzida pela Microsoft). A solução apresentada também otimiza a logística reversa, pois o entregador autônomo também pode transportar produtos que precisem ser trocados ou retificados.
