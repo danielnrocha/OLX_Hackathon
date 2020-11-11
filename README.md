@@ -5,9 +5,9 @@ Desafio: "Criar soluções colaborativas e sustentáveis para delivery dos produ
 
 <img src="https://github.com/danielnrocha/OLX_Hackathon/blob/main/BrandHackaTudo.png" width="600">
 
-1. Teaser video: https://youtu.be/IVml9pCjcnI
-2. Pitching video: https://youtu.be/z5nYvHF07nk#t=01h30m54s
-3. Award video: https://youtu.be/OnOQNb1HaPE#t=16m49
+1. Vídeo Teaser: https://youtu.be/IVml9pCjcnI
+2. Vídeo Pitching: https://youtu.be/z5nYvHF07nk#t=01h30m54s
+3. Vídeo da Premiação: https://youtu.be/OnOQNb1HaPE#t=16m49
 4. Destaque durante o programa: https://youtu.be/OnOQNb1HaPE#t=26m12s
 
 <p align="justify">
