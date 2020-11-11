@@ -13,7 +13,10 @@ Desafio: "Criar soluções colaborativas e sustentáveis para delivery dos produ
 <p align="justify">
 Por meio de um mecanismo de economia do compartilhamento, criamos uma área dentro do app da OLX para que usuário possam ser entregadores independentes. Assim, é criado um mecanismo de remuneração para oferecer a facilidade do comprador não precisar se deslocar para coletar o item comprado. 
 </p>
+
+<p align="justify">
 Em Python, produzimos um código que fornece um mecanismo de otimização da experiência do usuário e do empregador por meio de:
+</p>
 
 1) Criação de um modelo estatístico de preço dinâmico do frete (com base em dados abertos da Olist);
 2) Cálculo do tempo de entrega com base em estimativas da API do Bing Maps (produzida pela Microsoft). 
@@ -23,7 +26,10 @@ A solução apresentada também otimiza a logística reversa, pois o entregador 
 <p align="justify">
 O código deste arquivo fornece um mecanismo de otimização da experiência do usuário e do empregador por meio da criação de um modelo estatístico de preço dinâmico do frete e do tempo de entrega por meio de uma conexão com a API do Bing Maps (produzida pela Microsoft). A solução apresentada também otimiza a logística reversa, pois o entregador autônomo também pode transportar produtos que precisem ser trocados ou retificados.
 </p>
+
+<p align="justify">
 Já em CSS e HTML, esquematizamos a interface do usuário desse aplicativo, que além do preço dinâmico inclui as seguintes funcionalidades:
+</p>
 
 - Estimativa de tempo de entrega;
 - Previsão de trânsito e rota;
