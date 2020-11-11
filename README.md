@@ -1,7 +1,9 @@
 # Projeto OLX Flash
-## Hackathon OLX Hackatudo (2020) – 🏆 2º Lugar Geral
+## Hackathon OLX HackTudo (2020) – 🏆 2º Lugar Geral
 ### Equipe Union Squad – Daniel N. Rocha, Letícia Fiorito e Everton Arruda
-OLX Hack Tudo (2020). Desafio: "Criar soluções colaborativas e sustentáveis para delivery dos produtos comprados na OLX Pay".
+Desafio: "Criar soluções colaborativas e sustentáveis para delivery dos produtos comprados na OLX Pay".
+
+<img src="https://github.com/danielnrocha/OLX_Hackathon/blob/main/LogoHackaTudo.png" width="400">
 
 1. Teaser video: https://youtu.be/IVml9pCjcnI
 2. Pitching video: https://youtu.be/z5nYvHF07nk#t=01h30m54s
