@@ -18,8 +18,8 @@ Por meio de um mecanismo de economia do compartilhamento, criamos uma área dent
 Em Python, produzimos um código que fornece um mecanismo de otimização da experiência do usuário e do empregador por meio de:
 </p>
 
-A) Criação de um modelo estatístico de preço dinâmico do frete (com base em dados abertos da Olist);
-B) Cálculo do tempo de entrega com base em estimativas da API do Bing Maps (produzida pela Microsoft). 
+A. Criação de um modelo estatístico de preço dinâmico do frete (com base em dados abertos da Olist);
+B. Cálculo do tempo de entrega com base em estimativas da API do Bing Maps (produzida pela Microsoft). 
 
 <p align="justify">
 A solução apresentada também otimiza a logística reversa, pois o entregador autônomo também pode transportar produtos que precisem ser trocados ou retificados.
