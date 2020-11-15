@@ -39,4 +39,4 @@ Já em CSS e HTML, esquematizamos a interface do usuário desse aplicativo, que 
 - Chat em tempo real entre entregadores e compradores/vendedores;
 - Ranqueamento dos entregadores (feedback em pontuação).
 
-<img src="https://github.com/danielnrocha/OLX_Hackathon/blob/main/PrizeHackTudo.jpeg" width="500"> 
+<img src="https://github.com/danielnrocha/OLX_Hackathon/blob/main/PrizeHackTudo.jpeg" width="400"> 
