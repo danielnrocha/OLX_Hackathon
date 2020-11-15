@@ -3,7 +3,7 @@
 ### Equipe Union Squad – Daniel N. Rocha, Letícia Fiorito e Everton Arruda
 Desafio: "Criar soluções colaborativas e sustentáveis para delivery dos produtos comprados na OLX Pay".
 
-<img src="https://github.com/danielnrocha/OLX_Hackathon/blob/main/BrandHackaTudo.png" width="800">
+<img src="https://github.com/danielnrocha/OLX_Hackathon/blob/main/BrandHackaTudo.png" width="700">
 
 1. Vídeo Teaser: https://youtu.be/IVml9pCjcnI
 2. Vídeo Pitching: https://youtu.be/z5nYvHF07nk#t=01h30m54s
