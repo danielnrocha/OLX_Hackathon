@@ -3,7 +3,7 @@
 ### Equipe Union Squad – Daniel N. Rocha, Letícia Fiorito e Everton Arruda
 Desafio: "Criar soluções colaborativas e sustentáveis para delivery dos produtos comprados na OLX Pay".
 
-<img src="https://github.com/danielnrocha/OLX_Hackathon/blob/main/BrandHackaTudo.png" width="600"> <img src="https://github.com/danielnrocha/OLX_Hackathon/blob/main/PrizeHackTudo.jpeg" width="337"> 
+<img src="https://github.com/danielnrocha/OLX_Hackathon/blob/main/BrandHackaTudo.png" width="600">
 
 1. Vídeo Teaser: https://youtu.be/IVml9pCjcnI
 2. Vídeo Pitching: https://youtu.be/z5nYvHF07nk#t=01h30m54s
@@ -38,3 +38,5 @@ Já em CSS e HTML, esquematizamos a interface do usuário desse aplicativo, que 
 - Sinalizador de recebimento da encomenda;
 - Chat em tempo real entre entregadores e compradores/vendedores;
 - Ranqueamento dos entregadores (feedback em pontuação).
+
+<img src="https://github.com/danielnrocha/OLX_Hackathon/blob/main/PrizeHackTudo.jpeg" width="337"> 
