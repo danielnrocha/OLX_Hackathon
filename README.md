@@ -40,4 +40,5 @@ Já em CSS e HTML, esquematizamos a interface do usuário desse aplicativo, que 
 - Ranqueamento dos entregadores (feedback em pontuação).
 
 <img src="https://github.com/danielnrocha/OLX_Hackathon/blob/main/PrizeHackTudo.jpeg" width="400"> 
+
 ----------
